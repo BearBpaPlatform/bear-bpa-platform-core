@@ -1,0 +1,21 @@
+{
+    "name": "sidorkinalex/bearerp",
+    "description": "erp/crm",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SidorkinAlex",
+            "email": "palach.orl@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SidorkinAlex\\BearERP\\": "app"
+        }
+    },
+    "require": {
+        "php-di/php-di": "^6.4",
+        "ramsey/uuid": "^4.2"
+    }
+}
