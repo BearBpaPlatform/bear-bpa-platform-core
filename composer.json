@@ -17,5 +17,8 @@
     "require": {
         "php-di/php-di": "^6.4",
         "ramsey/uuid": "^4.2"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
     }
 }
