@@ -1,7 +1,7 @@
 <?php
 
 
-namespace SidorkinAlex\BearERP\controllers;
+namespace SidorkinAlex\BearERP\Core\CoreControllers;
 
 
 use JetBrains\PhpStorm\Pure;
