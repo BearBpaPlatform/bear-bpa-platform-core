@@ -67,7 +67,7 @@ class ControllerFactory
             return $this->getAPIController($request);
         } else {
             $this->method = "error";
-            return new ErrorController($this->uri);
+            return new ErrorController($uri);
         }
     }
 
