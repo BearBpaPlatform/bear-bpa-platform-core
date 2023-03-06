@@ -1,7 +1,7 @@
 <?php
 
 
-namespace SidorkinAlex\BearERP\coreService;
+namespace SidorkinAlex\BearERP\Core\coreService;
 
 
 use Swoole\Http\Request;
