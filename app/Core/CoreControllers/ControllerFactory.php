@@ -5,7 +5,7 @@ namespace SidorkinAlex\BearERP\Core\CoreControllers;
 
 
 use JetBrains\PhpStorm\Pure;
-use SidorkinAlex\BearERP\coreService\RequestValidator;
+use SidorkinAlex\BearERP\Core\coreService\RequestValidator;
 use SidorkinAlex\BearERP\Utils\LogUtils;
 use Swoole\Http\Request;
 
